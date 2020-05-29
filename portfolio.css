@@ -116,5 +116,5 @@ tbody,thead {
 
 /*under-line*/
 .under {
-    border-bottom: solid 2px black;
+    text-decoration: underline;
 }
